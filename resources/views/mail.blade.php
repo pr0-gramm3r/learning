@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>
     This mail is sent you to confirm That you have successfully registered on our website.
+    </h1>    
 </body>
 </html>
