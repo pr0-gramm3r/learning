@@ -1,3 +1,6 @@
+👿 VIEW IN RAW MODE TO UNDERSTAND BETTER 👿
+
+
 ✅SUMMARY — Overview of the program Structure only 
 
 Directory structure:
